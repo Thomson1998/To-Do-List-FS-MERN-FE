@@ -46,10 +46,11 @@ input {
 }
 
 .add:hover{
-  background: linear-gradient(#2193b0, #6dd5ed);
+  background: turquoise;
   color: #000;
   box-shadow: 5px 5px 5px 5px black;
   margin-top: 0.5px;
+  
 }
 
 .todo {
@@ -63,7 +64,7 @@ input {
 }
 
 .todo:hover {
-  background: linear-gradient(#2193b0, #6dd5ed);
+  background: turquoise;
   color: #000;
   box-shadow: 5px 5px 5px 5px black;
   margin-top: 0.5px;
